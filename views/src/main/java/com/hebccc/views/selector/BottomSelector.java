@@ -13,10 +13,10 @@ import android.view.WindowManager;
 import android.widget.TextView;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import com.hebccc.common.base.model.KeyValue;
-import com.hebccc.common.util.ClickEventUtil;
-import com.hebccc.common.util.MetricsUtil;
 import com.hebccc.views.R;
+import com.john.base.model.KeyValue;
+import com.john.common.util.ClickEventUtil;
+import com.john.common.util.MetricsUtil;
 
 import java.util.ArrayList;
 import java.util.List;
