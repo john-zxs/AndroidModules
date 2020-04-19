@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTitle">#1D9AD0</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorBlack3">#333333</color>
+    <color name="colorBlack4">#444444</color>
+    <color name="colorGray">#cccccc</color>
+
+    <color name="radiobutton_textcolor_main_press">#009aed</color>
+    <color name="radiobutton_textcolor_main">#999999</color>
+</resources>
